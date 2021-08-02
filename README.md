@@ -3,3 +3,4 @@ v3 更新了 minecraft、steam、bilibili的生成！可以让您的效率提升
 
 
 作者QQ 2119921460
+下载地址https://github.com/xmcword/keyword-by-xmcword/releases
